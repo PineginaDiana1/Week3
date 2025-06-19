@@ -1,1 +1,0 @@
-{"uuid":"64f616c0-fc8b-443d-8d7b-a717aa7c27bd","name":"ru.dpinegina.task3","children":["cf0fcb6f-5b1d-45fe-ba04-5d9efc6aa790"],"befores":[],"afters":[{"name":"clearCookiesAndLocalStorage","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1748455310706,"stop":1748455310722}],"start":1748455290924,"stop":1748455310723}
