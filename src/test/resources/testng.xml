@@ -3,7 +3,7 @@
 <suite name="All Test Suite" verbose="1">
     <test name="Nopackage">
         <classes>
-            <class name="tests.makeOrder.MakeOrderTest"/>
+            <class name="tests.make_order.MakeOrderTest"/>
         </classes>
     </test>
 </suite>

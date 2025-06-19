@@ -170,7 +170,7 @@
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
-            <version>LATEST</version>
+            <version>4.19.1</version>
         </dependency>
     </dependencies>
 </project>

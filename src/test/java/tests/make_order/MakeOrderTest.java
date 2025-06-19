@@ -1,4 +1,4 @@
-package tests.makeOrder;
+package tests.make_order;
 
 import static constant.Constant.Urls.YOOKASSA_PAGE;
 

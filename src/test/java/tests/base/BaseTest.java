@@ -8,7 +8,7 @@ import org.testng.annotations.AfterTest;
 import pages.base.BasePage;
 import pages.cart.CartPage;
 import pages.payment.PaymentPage;
-import pages.shippingInfo.ShippingInfoPage;
+import pages.shipping_info.ShippingInfoPage;
 import pages.yookassa.YookassaPage;
 
 import static common.Config.CLEAR_COOKIES_AND_STORAGE;
